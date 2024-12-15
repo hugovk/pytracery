@@ -1,8 +1,8 @@
 Tracery for Python
 ==================
 
-.. image:: https://img.shields.io/travis/aparrish/pytracery.svg
-        :target: https://travis-ci.org/aparrish/pytracery
+.. image:: https://github.com/aparrish/pytracery/actions/workflows/test.yml/badge.svg
+        :target: https://github.com/aparrish/pytracery/actions/workflows/test.yml
 
 This is a (rough) port of `Kate Compton <http://www.galaxykate.com/>`_'s
 wonderful `Tracery <http://tracery.io/>`_ to Python. The port
